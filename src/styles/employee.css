@@ -1,0 +1,13 @@
+.employee-list-css .add-employee-custom-css{
+  float: right;
+  margin-bottom: 25px;
+}
+
+.form_custom_css{
+    margin-right:10px;
+}
+
+.action_custom_css{
+    float: right;
+    display: flex;
+}
